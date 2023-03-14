@@ -82,7 +82,7 @@ class App extends React.Component{
           {/* FOR SHOWING COPYRIGHTS YEAH!!! */}
         <div>
           <h5 className="copyright">
-            Copyright 2023 iamROARe. All Rights Reserved!
+            Copyright 2023 sid993100. All Rights Reserved!
           </h5>
         </div>
 
