@@ -4,8 +4,6 @@ import Tooltip from "./tooltip";
 
 // APP COMPONENT
 class App extends React.Component{
-
-
   constructor(){
     super();
     this.state ={
